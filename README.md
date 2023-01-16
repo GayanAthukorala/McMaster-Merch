@@ -8,3 +8,6 @@ This is a quick web application I created for my Software Development I (2AA4) t
 - CSS
 
 # Screenshots
+![image](https://user-images.githubusercontent.com/73492549/212773419-1b7015ad-6203-47ca-84dd-81233c1f9344.png)
+![image](https://user-images.githubusercontent.com/73492549/212773466-34e143e6-d48f-4c10-8352-e340a84eb16d.png)
+
